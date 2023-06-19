@@ -1,0 +1,13 @@
+.flex {
+    display: flex;
+  }
+  
+  .card {
+    width: 8rem;
+    padding-bottom: 1rem;
+  }
+  .img {
+    height: 5rem;
+    width: 7rem;
+    background-color: grey;
+  }
